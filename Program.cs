@@ -8,11 +8,10 @@ namespace ConsoleApp059
 {
     class Program
     {
-        public void Details()
+  
+         public void ProgramDetails
         {
-
-                 ConsoleWrite("Details");
-        
+            Console.Write("Details");
         }
     }
 }
