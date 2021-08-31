@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,16 +6,22 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp059
 {
-    public class Program
+    class Program
     {
-        static void Main(string[] args)
+        public void Details()
         {
-            Car myobj = new Car();
-            myobj.Drive();
-            Car.Brake();
+
+                 ConsoleWrite("Details");
+        
         }
     }
 }
+
+        
+           
+       
+    
+
     
 
 
