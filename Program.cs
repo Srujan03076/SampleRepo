@@ -8,7 +8,7 @@ namespace ConsoleApp059
 {
     public class Program
     {
-        public void AnimalDetails
+        public void ProgramDetails
         {
             Console.Write("Details);
         }
