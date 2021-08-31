@@ -8,11 +8,9 @@ namespace ConsoleApp059
 {
     public class Program
     {
-        static void Main(string[] args)
+        public void AnimalDetails
         {
-            Car myobj = new Car();
-            myobj.Drive();
-            Car.Brake();
+            Console.Write("Details);
         }
     }
 }
